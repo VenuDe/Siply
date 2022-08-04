@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-02T13:32:36 IST" name="Default suite" finished-at="2022-08-02T13:34:59 IST" duration-ms="143107">
+    <groups>
+    </groups>
+    <test started-at="2022-08-02T13:32:36 IST" name="Default test" finished-at="2022-08-02T13:34:59 IST" duration-ms="143107">
+      <class name="practise.Siply.Siply">
+        <test-method is-config="true" signature="killAllProcess()[pri:0, instance:practise.Siply.Siply@13fd2ccd]" started-at="2022-08-02T13:32:36 IST" name="killAllProcess" finished-at="2022-08-02T13:32:42 IST" duration-ms="5356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllProcess -->
+        <test-method signature="Registration()[pri:0, instance:practise.Siply.Siply@13fd2ccd]" started-at="2022-08-02T13:32:42 IST" name="Registration" finished-at="2022-08-02T13:33:52 IST" duration-ms="70319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method is-config="true" signature="method(org.testng.ITestResult)[pri:0, instance:practise.Siply.Siply@13fd2ccd]" started-at="2022-08-02T13:33:52 IST" name="method" finished-at="2022-08-02T13:33:52 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Registration status=SUCCESS method=Siply.Registration()[pri:0, instance:practise.Siply.Siply@13fd2ccd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="Chits_Basic_flow()[pri:1, instance:practise.Siply.Siply@13fd2ccd]" started-at="2022-08-02T13:33:52 IST" name="Chits_Basic_flow" finished-at="2022-08-02T13:34:59 IST" duration-ms="66973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chits_Basic_flow -->
+        <test-method is-config="true" signature="method(org.testng.ITestResult)[pri:0, instance:practise.Siply.Siply@13fd2ccd]" started-at="2022-08-02T13:34:59 IST" name="method" finished-at="2022-08-02T13:34:59 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Chits_Basic_flow status=SUCCESS method=Siply.Chits_Basic_flow()[pri:1, instance:practise.Siply.Siply@13fd2ccd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:practise.Siply.Siply@13fd2ccd]" started-at="2022-08-02T13:34:59 IST" name="AT" finished-at="2022-08-02T13:34:59 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+      </class> <!-- practise.Siply.Siply -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
